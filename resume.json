@@ -6,7 +6,7 @@
     "name": "Will Nixon",
     "label": "Senior iOS Engineer",
     "image": "https://avatars.githubusercontent.com/u/33470216?v=4",
-    "summary": "Innovative and results-driven iOS Engineer with extensive experience in developing high-performance native applications using Swift, UIKit, and SwiftUI. Successfully led the development of a feature that increased user retention by 25% and improved app load times by 40%. Passionate about optimizing user experiences and architecting scalable, maintainable mobile solutions. Proven ability to lead product initiatives, improve app efficiency, and enhance user engagement. ",
+    "summary": "As a Senior iOS Engineer with extensive experience in building high-performance native applications using Swift, UIKit, and SwiftUI, I am passionate about crafting seamless user experiences and architecting scalable, maintainable mobile solutions. I have a proven track record of leading product initiatives, optimizing app efficiency, and enhancing user engagement. Notably, I spearheaded the development of features that boosted user retention by 25% and reduced app load times by 40%, directly improving performance and customer satisfaction.",
     "email": "will_nixon@me.com",
     "phone": "310-463-0567",
     "location": {
@@ -69,21 +69,82 @@
   ],
   "work": [
     {
-      "summary": "Blockbid is an Australian crypto currency exchange. I started off on the frontend but eventually became lead tech and worked on every moving piece of the exchange. I really enjoyed working with liquidity providers and connecting their platforms to help us achieve liquid markets.",
-      "website": "https://platform.blockbid.io",
-      "name": "Blockbid",
-      "location": "Melbourne",
-      "position": "Senior Javascript Developer",
-      "startDate": "2018-03-01",
-      "endDate": "2020-01-01",
+      "summary": "Fundrise is a real estate investment platform. I was quickly promoted to Senior iOS Engineer where I led project initiatives from scoping and grooming tickets through to QA and delivery.",
+      "website": "https://www.fundrise.com",
+      "name": "Fundrise",
+      "location": "Washington, D.C.",
+      "position": "Senior iOS Engineer",
+      "startDate": "2022-07-01",
+      "endDate": "2024-12-02",
       "highlights": [
-        "React, Apollo, Styled Components",
-        "Node.js / Rails",
-        "Docker / Heroku / GCP",
-        "Used Figma for design and UX work",
-        "Optimizing markets with tens of millions of rows using SQL."
+        "Led the development of key features that boosted new-user investments by 25%, driving revenue growth.",
+        "Architected and implemented new iOS functionalities, ensuring seamless collaboration between product, design, and backend teams.",
+        "Optimized developer workflows, reducing build times by 40% and enhancing security through automation tools like Periphery."
+      ]
+    },
+    {
+      "summary": "As iOS Engineer, I built features that focused on new users through their first 30 days on the platform. I implemented AB tests and new features that improved the Sign-Up experience for investors joining the platform.",
+      "website": "https://www.fundrise.com",
+      "name": "Fundrise",
+      "location": "Washington, D.C.",
+      "position": "iOS Engineer",
+      "startDate": "2022-01-02",
+      "endDate": "2022-07-01",
+      "highlights": [
+        "Developed and optimized iOS onboarding flows, increasing user retention by 35% during the first 30 days.",
+        "Spearheaded the implementation of IRA account creation on iOS by adapting web functionalities, ensuring feature parity and user experience consistency.",
+        "Delivered high-quality features ahead of schedule, ensuring maintainable and scalable code."
+      ]
+    },
+    {
+      "summary": "As iOS Engineer, I built features that focused on new users through their first 30 days on the platform. I implemented AB tests and new features that improved the Sign-Up experience for investors joining the platform.",
+      "website": "https://www.blueraster.com/",
+      "name": "Blue Raster",
+      "location": "Arlington, VA",
+      "position": "Application Developer II",
+      "startDate": "2020-10-01",
+      "endDate": "2021-12-31",
+      "highlights": [
+        "Developed and maintained full-stack applications using React, Redux, and Node.js, with a focus on performance optimization.",
+        "Built cloud-based applications and data-processing pipelines in Azure & AWS, enhancing system reliability.",
+        "Refactored legacy full-stack applications, improving code maintainability and performance using React and Next.js."
+      ]
+    },
+    {
+      "summary": "As iOS Engineer, I built features that focused on new users through their first 30 days on the platform. I implemented AB tests and new features that improved the Sign-Up experience for investors joining the platform.",
+      "website": "https://www.blueraster.com/",
+      "name": "Blue Raster",
+      "location": "Arlington, VA",
+      "position": "Application Developer I",
+      "startDate": "2019-11-01",
+      "endDate": "2020-10-01",
+      "highlights": [
+        "Maintained cross-platform mobile applications using Apache Cordova, focusing on performance enhancements and bug fixes.",
+        "Led internal tech tutorials on Swift, Svelte, and Microsoft Azure, promoting continuous learning."
       ]
     }
+  ],
+  "projects": [
+    {
+      "name": "ENdi",
+      "startDate": "2021-01-15",
+      "description": "An app offering personalized tracking and insights for managing female health conditions like endometriosis, PCOS, and more",
+      "highlights": [
+        "Part of Microsoft for Startups Founder's Hub",
+        "200+ active subscribers from organic growth alone",
+        "Built with SwiftUI, HealthKit, Core Data, and CloudKit."
+      ],
+      "url": "https://myendiapp.com"
+    },
+    {
+      "name": "Lemmi",
+      "startDate": "2019-08-15",
+      "description": "An iOS and Androit app enabling people with speech difficulties to communicate with ease and reconnect with others.",
+      "highlights": [
+        "Built with UIKit, AVFoundation, Core Data, and CloudKit."
+      ],
+      "url": "https://lemmichat.com"
+    },
   ],
   "interests": [
     {
