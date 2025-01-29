@@ -1,12 +1,13 @@
 {
   "meta": {
-    "theme": "relaxed"
+    "theme": "relaxed",
+    "language": "en"
   },
   "basics": {
     "name": "Will Nixon",
     "label": "Senior iOS Engineer",
     "image": "https://avatars.githubusercontent.com/u/33470216?v=4",
-    "summary": "As a Senior iOS Engineer with extensive experience in building high-performance native applications using Swift, UIKit, and SwiftUI, I am passionate about crafting seamless user experiences and architecting scalable, maintainable mobile solutions. I have a proven track record of leading product initiatives, optimizing app efficiency, and enhancing user engagement. Notably, I spearheaded the development of features that boosted user retention by 25% and reduced app load times by 40%, directly improving performance and customer satisfaction.",
+    "summary": "As a Senior iOS Engineer with extensive experience in building high-performance native applications using Swift, UIKit, and SwiftUI, I am passionate about crafting seamless user experiences and architecting scalable, maintainable mobile solutions. I led the development of key features that increased user retention by 25% and optimized app performance, reducing load times by 40%—directly enhancing customer satisfaction and engagement.",
     "email": "will_nixon@me.com",
     "phone": "310-463-0567",
     "location": {
@@ -49,10 +50,10 @@
     {
       "keywords": ["XCTest", "Quick/Nimble", "Snapshot Testing", "UITesting", "Code Coverage"],
       "level": "Senior",
-      "name": "Testing & Debgging"
+      "name": "Testing & Debugging"
     },
     {
-      "keywords": ["Bitrise", "Github Actions", "Fastlane", "Tuist", "AWS", "Azure"],
+      "keywords": ["Bitrise", "GitHub Actions", "Fastlane", "Tuist", "AWS", "Azure"],
       "level": "Mid",
       "name": "DevOps & CI/CD"
     },
@@ -62,7 +63,7 @@
       "name": "Tools & Services"
     },
     {
-      "keywords": ["React", "TypeScript", "Next", "Node", "Python", "SQL", "Postgres"],
+      "keywords": ["React", "TypeScript", "Next.js", "Node.js", "Python", "SQL", "PostgreSQL"],
       "level": "Mid",
       "name": "Full-Stack Development"
     }
@@ -78,12 +79,12 @@
       "endDate": "2024-12-02",
       "highlights": [
         "Led the development of key features that boosted new-user investments by 25%, driving revenue growth.",
-        "Architected and implemented new iOS functionalities, ensuring seamless collaboration between product, design, and backend teams.",
+        "Worked cross-functionally with product, design, and backend teams to implement scalable iOS features.",
         "Optimized developer workflows, reducing build times by 40% and enhancing security through automation tools like Periphery."
       ]
     },
     {
-      "summary": "As iOS Engineer, I built features that focused on new users through their first 30 days on the platform. I implemented AB tests and new features that improved the Sign-Up experience for investors joining the platform.",
+      "summary": "As an iOS Engineer, I developed features enhancing new user experiences and optimizing sign-up conversion rates. Implemented AB tests and improved the onboarding process for investors.",
       "website": "https://www.fundrise.com",
       "name": "Fundrise",
       "location": "Washington, D.C.",
@@ -97,7 +98,7 @@
       ]
     },
     {
-      "summary": "As iOS Engineer, I built features that focused on new users through their first 30 days on the platform. I implemented AB tests and new features that improved the Sign-Up experience for investors joining the platform.",
+      "summary": "Developed and optimized full-stack applications, refactored legacy systems, and built cloud-based solutions to improve system performance and maintainability.",
       "website": "https://www.blueraster.com/",
       "name": "Blue Raster",
       "location": "Arlington, VA",
@@ -111,7 +112,7 @@
       ]
     },
     {
-      "summary": "As iOS Engineer, I built features that focused on new users through their first 30 days on the platform. I implemented AB tests and new features that improved the Sign-Up experience for investors joining the platform.",
+      "summary": "Maintained and improved applications while leading internal learning initiatives on modern technologies.",
       "website": "https://www.blueraster.com/",
       "name": "Blue Raster",
       "location": "Arlington, VA",
@@ -128,10 +129,10 @@
     {
       "name": "ENdi",
       "startDate": "2021-01-15",
-      "description": "An app offering personalized tracking and insights for managing female health conditions like endometriosis, PCOS, and more",
+      "description": "An app offering personalized tracking and insights for managing female health conditions like endometriosis, PCOS, and more.",
       "highlights": [
-        "Part of Microsoft for Startups Founder's Hub",
-        "200+ active subscribers from organic growth alone",
+        "Part of Microsoft for Startups Founder's Hub.",
+        "Grew to 200+ active subscribers organically within 12 months.",
         "Built with SwiftUI, HealthKit, Core Data, and CloudKit."
       ],
       "url": "https://myendiapp.com"
@@ -139,22 +140,40 @@
     {
       "name": "Lemmi",
       "startDate": "2019-08-15",
-      "description": "An iOS and Androit app enabling people with speech difficulties to communicate with ease and reconnect with others.",
+      "description": "An iOS and Android app enabling people with speech difficulties to communicate with ease and reconnect with others.",
       "highlights": [
         "Built with UIKit, AVFoundation, Core Data, and CloudKit."
       ],
       "url": "https://lemmichat.com"
-    },
+    }
   ],
   "interests": [
     {
-      "name": "Reading / Writing / Watching"
+      "name": "Lifestyle & Fitness",
+      "keywords": [
+        "Peloton",
+        "Strength Training",
+        "Beach Days",
+        "Fine Dining"
+      ]
     },
     {
-      "name": "Filmmaking"
+      "name": "Reading, Writing & Watching",
+      "keywords": [
+        "Fantasy",
+        "Screenwriting",
+        "Directing",
+        "Streaming"
+      ]
     },
     {
-      "name": "Gaming"
+      "name": "Gaming",
+      "keywords": [
+        "RPGs",
+        "Indie Games",
+        "Playstation",
+        "Steam Deck"
+      ]
     }
   ]
 }

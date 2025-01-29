@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@jsonresume/jsonresume-theme-class": "^0.4.2"
+  }
+}
