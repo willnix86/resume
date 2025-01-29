@@ -1,5 +1,20 @@
 {
-  "dependencies": {
-    "@jsonresume/jsonresume-theme-class": "^0.4.2"
-  }
+  "name": "willnixon",
+  "version": "1.0.0",
+  "description": "This is the resume of Will Nixon. Senior iOS Engineer.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/willnix86/resume.git"
+  },
+  "keywords": [
+    "resume"
+  ],
+  "author": "Thomas Davis",
+  "license": "ISC",
+  "bugs": {},
+  "homepage": "https://github.com/willnix86/resume#readme"
 }
