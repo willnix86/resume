@@ -1,6 +1,6 @@
 {
   "meta": {
-    "theme": "elegant"
+    "theme": "relaxed"
   },
   "basics": {
     "name": "Will Nixon",
@@ -11,7 +11,7 @@
     "phone": "310-463-0567",
     "location": {
       "city": "Charleston",
-      "countryCode": "USA"
+      "countryCode": "SC"
     },
     "profiles": [
       {
