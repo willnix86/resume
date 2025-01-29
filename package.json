@@ -16,5 +16,8 @@
   "author": "Thomas Davis",
   "license": "ISC",
   "bugs": {},
-  "homepage": "https://github.com/willnix86/resume#readme"
+  "homepage": "https://github.com/willnix86/resume#readme",
+  "dependencies": {
+    "jsonresume-theme-relaxed": "^0.1.11"
+  }
 }

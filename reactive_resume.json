@@ -1,0 +1,441 @@
+{
+  "basics": {
+    "url": {
+      "href": "",
+      "label": ""
+    },
+    "name": "Will Nixon",
+    "email": "will_nixon@me.com",
+    "phone": "310-463-0567",
+    "picture": {
+      "url": "https://avatars.githubusercontent.com/u/33470216?v=4",
+      "size": 64,
+      "effects": {
+        "border": false,
+        "hidden": false,
+        "grayscale": false
+      },
+      "aspectRatio": 1,
+      "borderRadius": 0
+    },
+    "headline": "Senior iOS Engineer",
+    "location": "",
+    "customFields": []
+  },
+  "metadata": {
+    "css": {
+      "value": "* {\n\toutline: 1px solid #000;\n\toutline-offset: 4px;\n}",
+      "visible": false
+    },
+    "page": {
+      "format": "a4",
+      "margin": 18,
+      "options": {
+        "breakLine": true,
+        "pageNumbers": true
+      }
+    },
+    "notes": "",
+    "theme": {
+      "text": "#000000",
+      "primary": "#dc2626",
+      "background": "#ffffff"
+    },
+    "layout": [
+      [
+        [
+          "profiles",
+          "summary",
+          "experience",
+          "education",
+          "projects",
+          "volunteer",
+          "references"
+        ],
+        [
+          "skills",
+          "interests",
+          "certifications",
+          "awards",
+          "publications",
+          "languages"
+        ]
+      ]
+    ],
+    "template": "onyx",
+    "typography": {
+      "font": {
+        "size": 14.1,
+        "family": "Open Sans",
+        "subset": "latin",
+        "variants": [
+          "regular"
+        ]
+      },
+      "hideIcons": false,
+      "lineHeight": 1.5,
+      "underlineLinks": true
+    }
+  },
+  "sections": {
+    "awards": {
+      "id": "awards",
+      "name": "Awards",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "custom": {},
+    "skills": {
+      "id": "skills",
+      "name": "Skills",
+      "items": [
+        {
+          "id": "plnclk0td05yl8zf2m66lmk5",
+          "visible": true,
+          "name": "Languages & Frameworks",
+          "description": "",
+          "level": 5,
+          "keywords": [
+            "iOS",
+            "Swift",
+            "SwiftUI",
+            "UIKit",
+            "Combine",
+            "PromiseKit",
+            "Async/Await"
+          ]
+        },
+        {
+          "id": "au5ul8ps7ihcuo6my7ogr95u",
+          "visible": true,
+          "name": "Architecture & Patterns",
+          "description": "",
+          "level": 5,
+          "keywords": [
+            "MVC",
+            "MVVM",
+            "Coordinator",
+            "Factory",
+            "Reactive Programming",
+            "Observation"
+          ]
+        },
+        {
+          "id": "sh5mhsucoy3f2lcsvh8fhn5d",
+          "visible": true,
+          "name": "Testing & Debugging",
+          "description": "",
+          "level": 5,
+          "keywords": [
+            "XCTest",
+            "Quick/Nimble",
+            "Snapshot Testing",
+            "UITesting",
+            "Code Coverage"
+          ]
+        },
+        {
+          "id": "u8nsm7toz0gaabb1jf8x1kjc",
+          "visible": true,
+          "name": "DevOps & CI/CD",
+          "description": "",
+          "level": 3,
+          "keywords": [
+            "Bitrise",
+            "GitHub Actions",
+            "Fastlane",
+            "Tuist",
+            "AWS",
+            "Azure"
+          ]
+        },
+        {
+          "id": "sw8kqxymxtb0ipd0h3zuo47k",
+          "visible": true,
+          "name": "Tools & Services",
+          "description": "",
+          "level": 5,
+          "keywords": [
+            "Xcode",
+            "Swift Package Manager (SPM)",
+            "Git",
+            "Firebase",
+            "Mixpanel",
+            "Sentry"
+          ]
+        },
+        {
+          "id": "jdu1uen2fgzowjllje3in0r3",
+          "visible": true,
+          "name": "Full-Stack Development",
+          "description": "",
+          "level": 4,
+          "keywords": [
+            "React",
+            "TypeScript",
+            "Next.js",
+            "Node.js",
+            "Python",
+            "SQL",
+            "PostgreSQL"
+          ]
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "summary": {
+      "id": "summary",
+      "name": "Summary",
+      "columns": 1,
+      "content": "As a Senior iOS Engineer with extensive experience in building high-performance native applications using Swift, UIKit, and SwiftUI, I am passionate about crafting seamless user experiences and architecting scalable, maintainable mobile solutions. I led the development of key features that increased user retention by 25% and optimized app performance, reducing load times by 40%—directly enhancing customer satisfaction and engagement.",
+      "visible": true,
+      "separateLinks": true
+    },
+    "profiles": {
+      "id": "profiles",
+      "name": "Profiles",
+      "items": [
+        {
+          "id": "q2knyon9ceep8bu2t4vwz9ya",
+          "url": {
+            "href": "https://github.com/willnix86",
+            "label": ""
+          },
+          "icon": "github",
+          "network": "github",
+          "visible": true,
+          "username": "willnix86"
+        },
+        {
+          "id": "th0qww06dbf30tf5w5mwlyzy",
+          "url": {
+            "href": "https://www.linkedin.com/in/willnixon1/",
+            "label": ""
+          },
+          "icon": "linkedin",
+          "network": "linkedin",
+          "visible": true,
+          "username": "willnixon1"
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "projects": {
+      "id": "projects",
+      "name": "Projects",
+      "items": [
+        {
+          "id": "dk2vrwv0xts0qghjuhe1llzd",
+          "visible": true,
+          "name": "ENdi",
+          "description": "An app offering personalized tracking and insights for managing female health conditions like endometriosis, PCOS, and more.",
+          "date": "January 2020 - Present",
+          "summary": "<ul><li><p>Part of Microsoft for Startups Founder's Hub.</p></li><li><p>Grew to 200+ active subscribers organically within 12 months.</p></li><li><p>\"Built with SwiftUI, HealthKit, Core Data, and CloudKit.</p></li></ul>",
+          "keywords": [
+            "SwiftUI",
+            "HealthKit",
+            "Core Data",
+            "CloudKit"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://myendiapp.com"
+          }
+        },
+        {
+          "id": "s2ggfhg9p6m0ffsfvvj9umsg",
+          "visible": true,
+          "name": "Lemmi",
+          "description": "An iOS and Android app enabling people with speech difficulties to communicate with ease and reconnect with others.",
+          "date": "August 2019 - Present",
+          "summary": "",
+          "keywords": [
+            "UIKit",
+            "Core Data",
+            "CloudKit",
+            "AVFoundation"
+          ],
+          "url": {
+            "label": "",
+            "href": "https://lemmichat.com"
+          }
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "education": {
+      "id": "education",
+      "name": "Education",
+      "items": [
+        {
+          "id": "rermfx6sw5equ5r0oqch3h8j",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "area": "Film Studies",
+          "date": "2007-10-01 - 2010-05-31",
+          "score": "",
+          "summary": "",
+          "visible": true,
+          "studyType": "Bachelors",
+          "institution": "Oxford Brookes University"
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "interests": {
+      "id": "interests",
+      "name": "Interests",
+      "items": [
+        {
+          "id": "ehka8fcqnkpnla2fwoolu8tv",
+          "name": "Lifestyle & Fitness",
+          "visible": true,
+          "keywords": [
+            "Peloton",
+            "Strength Training",
+            "Beach Days",
+            "Fine Dining"
+          ]
+        },
+        {
+          "id": "rmhkd5snb43dqdx70inggivy",
+          "name": "Reading, Writing & Watching",
+          "visible": true,
+          "keywords": [
+            "Fantasy",
+            "Screenwriting",
+            "Directing",
+            "Streaming"
+          ]
+        },
+        {
+          "id": "enakxnwr2wgn9dy56ays37br",
+          "name": "Gaming",
+          "visible": true,
+          "keywords": [
+            "RPGs",
+            "Indie Games",
+            "Playstation",
+            "Steam Deck"
+          ]
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "languages": {
+      "id": "languages",
+      "name": "Languages",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "volunteer": {
+      "id": "volunteer",
+      "name": "Volunteering",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "experience": {
+      "id": "experience",
+      "name": "Experience",
+      "items": [
+        {
+          "id": "jot2w2m7gk51reniuphyjx18",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "date": "2022-07-01 - 2024-12-02",
+          "company": "Fundrise",
+          "summary": "Fundrise is a real estate investment platform. I was quickly promoted to Senior iOS Engineer where I led project initiatives from scoping and grooming tickets through to QA and delivery.",
+          "visible": true,
+          "location": "",
+          "position": "Senior iOS Engineer"
+        },
+        {
+          "id": "m4yjsao5sdx6exr3cspkr8r3",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "date": "2022-01-02 - 2022-07-01",
+          "company": "Fundrise",
+          "summary": "As an iOS Engineer, I developed features enhancing new user experiences and optimizing sign-up conversion rates. Implemented AB tests and improved the onboarding process for investors.",
+          "visible": true,
+          "location": "",
+          "position": "iOS Engineer"
+        },
+        {
+          "id": "owvz1o3im32iu4tey3dwi5n7",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "date": "2020-10-01 - 2021-12-31",
+          "company": "Blue Raster",
+          "summary": "Developed and optimized full-stack applications, refactored legacy systems, and built cloud-based solutions to improve system performance and maintainability.",
+          "visible": true,
+          "location": "",
+          "position": "Application Developer II"
+        },
+        {
+          "id": "ztrrd8oaddadbozkope7v6cc",
+          "url": {
+            "href": "",
+            "label": ""
+          },
+          "date": "2019-11-01 - 2020-10-01",
+          "company": "Blue Raster",
+          "summary": "Maintained and improved applications while leading internal learning initiatives on modern technologies.",
+          "visible": true,
+          "location": "",
+          "position": "Application Developer I"
+        }
+      ],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "references": {
+      "id": "references",
+      "name": "References",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "publications": {
+      "id": "publications",
+      "name": "Publications",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    },
+    "certifications": {
+      "id": "certifications",
+      "name": "Certifications",
+      "items": [],
+      "columns": 1,
+      "visible": true,
+      "separateLinks": true
+    }
+  }
+}

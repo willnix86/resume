@@ -39,32 +39,32 @@
   "skills": [
     {
       "keywords": ["iOS", "Swift", "SwiftUI", "UIKit", "Combine", "PromiseKit", "Async/Await"],
-      "level": "Senior",
+      "level": "5",
       "name": "Languages & Frameworks"
     },
     {
       "keywords": ["MVC", "MVVM", "Coordinator", "Factory", "Reactive Programming", "Observation"],
-      "level": "Senior",
+      "level": "5",
       "name": "Architecture & Patterns"
     },
     {
       "keywords": ["XCTest", "Quick/Nimble", "Snapshot Testing", "UITesting", "Code Coverage"],
-      "level": "Senior",
+      "level": "5",
       "name": "Testing & Debugging"
     },
     {
       "keywords": ["Bitrise", "GitHub Actions", "Fastlane", "Tuist", "AWS", "Azure"],
-      "level": "Mid",
+      "level": "4",
       "name": "DevOps & CI/CD"
     },
     {
       "keywords": ["Xcode", "Swift Package Manager (SPM)", "Git", "Firebase", "Mixpanel", "Sentry"],
-      "level": "Senior",
+      "level": "5",
       "name": "Tools & Services"
     },
     {
       "keywords": ["React", "TypeScript", "Next.js", "Node.js", "Python", "SQL", "PostgreSQL"],
-      "level": "Mid",
+      "level": "4",
       "name": "Full-Stack Development"
     }
   ],
